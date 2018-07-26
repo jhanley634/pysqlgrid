@@ -1,0 +1,13 @@
+package:
+  name: pysqlgrid
+  version: 1.0.1
+
+source:
+  path: .
+
+requirements:
+  build:
+    - python>=3.6.3
+  run:
+    - flask>=1.0
+    - sqlalchemy>=1.2

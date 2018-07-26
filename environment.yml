@@ -1,0 +1,7 @@
+name: pysqlgrid
+channels:
+    - defaults
+dependencies:
+    - flask>=1.0
+    - python>=3.6
+    - sqlalchemy>=1.2

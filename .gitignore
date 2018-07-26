@@ -1,0 +1,10 @@
+*.egg
+*.egg-info/
+*.pyc
+*~
+.idea/
+__pycache__/
+build/
+dist/
+downloads/
+wheels/
